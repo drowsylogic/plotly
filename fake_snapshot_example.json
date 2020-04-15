@@ -1,0 +1,14 @@
+{
+    "serial_number":123456,
+    "timestamp":1586207672,
+    "samples_per_axis_36":3,
+    "capture_time_ms_35":10240,
+    "internal_accelerometer_32":5,
+    "s1_a1_sensitivity_299-300":332.123,
+    "s1_a2_sensitivity_301-302":332.123,
+    "s1_a3_sensitivity_299-300":332.123,
+    "s2_a1_sensitivity":660.123,
+    "s2_a2_sensitivity":660.123,
+    "s2_a3_sensitivity":660.123,
+    "raw_samples" : [ "23123", "234234", "345345" ]
+}
